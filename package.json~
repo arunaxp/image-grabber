@@ -1,0 +1,19 @@
+{
+  "author": "Aruna Jayathilaka <arunaxp@gmail.com>",
+  "name": "image_grabber",
+  "version": "1.0.0",
+  "dependencies": {
+    "underscore": "1.4.4"
+  },
+  "main": "lib/grabber",
+  "description": "javascript injection and grabe the images",
+  "_from": "image_grabber@~1.0.0",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD-2-Clause"
+}
